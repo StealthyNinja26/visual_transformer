@@ -27,7 +27,8 @@ This project explores the implementation and understanding of **Vision Transform
 ## 🚀 Getting Started
 
 1. Open the notebook in [Google Colab](https://colab.research.google.com).
-2. Run all cells (`Runtime > Run all`) to:
+2. Connect to the T4 GPU or any other runtime with a GPU.
+3. Run all cells (`Runtime > Run all`) to:
    - Load CIFAR-10 dataset.
    - Initialize and train the Vision Transformer model.
    - Evaluate the model and visualize results.
